@@ -11,7 +11,7 @@ to other browsers.
 It is expected that most WebGL-capable browers should be 
 able to support plasio, and it contains nothing that is explicitly Chrome-specific beyond the optional NaCL LASzip module. We just haven't tested it beyond `Mac and Windows Chrome Canary`_ at this time.
 
-.. image::https://raw.githubusercontent.com/lydonchandra/plasio/f3ce890a9ed994987487417cfc22baf19067c961/screenshots/plas.io.png
+.. image:: https://raw.githubusercontent.com/lydonchandra/plasio/f3ce890a9ed994987487417cfc22baf19067c961/screenshots/plas.io.png
 
 Demo
 ...............................................................................
