@@ -11,6 +11,7 @@ to other browsers.
 It is expected that most WebGL-capable browers should be 
 able to support plasio, and it contains nothing that is explicitly Chrome-specific beyond the optional NaCL LASzip module. We just haven't tested it beyond `Mac and Windows Chrome Canary`_ at this time.
 
+.. image::https://raw.githubusercontent.com/lydonchandra/plasio/f3ce890a9ed994987487417cfc22baf19067c961/screenshots/plas.io.png
 
 Demo
 ...............................................................................
@@ -53,7 +54,7 @@ You can then build and stage files under the ``build`` directory by running::
     gulp
     
 While developing, you may run::
-    
+     
     gulp develop
     
 This will serve built files locally and open your default browser pointing to the index page.  Any changes you make to
